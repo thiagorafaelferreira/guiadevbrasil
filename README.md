@@ -106,6 +106,7 @@
 🔖 [FrontEndMaster](https://frontendmasters.com/) - Site para aprender programação e desenvolvimento por meio de cursos <br>
 🔖 [Balta.io](https://balta.io) - Site para aprender programação e desenvolvimento por meio de cursos <br>
 🔖 [FrontEndMaster](https://frontendmasters.com/) - Site para aprender programação e desenvolvimento por meio de cursos <br>
+🔖 [AlgoExpert](https://algoexpert.io/) - Site para aprender programação e desenvolvimento por meio de cursos <br>
 
 ## 📚 Sites para desenvolvedor front-end
 
@@ -162,6 +163,9 @@
 🔖 [Working Nomads](https://workingnomads.co) <br>
 🔖 [Coodesh](https://coodesh.com/) <br>
 🔖 [Há Vagas](https://havagas.pt/) <br>
+🔖 [Revelo](https://www.revelo.com.br/) <br>
+🔖 [Proxet](https://proxet.com/) <br>
+🔖 [Turing](https://www.turing.com/pt) <br>
 
 ## 📚 Ferramentas de desenvolvimento:
 
@@ -495,6 +499,7 @@
 🔖 [Surge](https://surge.sh/) - Hospedagem gratuita para páginas estáticas <br>
 🔖 [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso <br>
 🔖 [Vercel](https://vercel.com/) -  Hospedagem grátis de sites estáticos e serveless <br>
+🔖 [Replit](https://replit.com/) -  Hospedagem sites estáticos <br>
 
 ## 📚 Sites para inspirar o seu desenvolvimento
 
